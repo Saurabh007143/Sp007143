@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Saurabh Pawar.
+- 👋 Hi, I’m Saurabh Mohan Pawar.
 - 👀 I’m interested in Web development.
 - 🌱 I’m completed bachelor's degree.
-- 💞️ I’m looking forward to collaborate on working together in any condition.
+- 💞️ I’m looking forward to collaborate on working together.
 - 📫 How to reach me pawarsaurabh815@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns
 - ⚡ Fun fact: ...
 
 <!---
